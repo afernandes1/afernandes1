@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps and how can this be useful in Unified Communications.**
 
-- 👨‍💻 All of my projects are available at [github.com/afernandes1](github.com/afernandes1)
+- 👨‍💻 All of my projects are available at https://github.com/afernandes1
 
 - 💬 Ask me about **Cisco Call Manager AXL Schema, and how can Ansible integrate with this.**
 
