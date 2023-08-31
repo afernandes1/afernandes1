@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **UC engineer, with a strong focus on Cisco technologies and integrations with Microsoft**
 
-- 🌱 I’m currently learning **DevOps and how can this be useful in Unified Communications.**
+- 🌱 I’m currently learning **DevOps and how can this be useful in Unified Communications by using Python, Ansible and AXL**
 
 - 👨‍💻 All of my projects are available at https://github.com/afernandes1
 
