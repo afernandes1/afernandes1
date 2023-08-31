@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Cisco Call Manager AXL Schema, and how can Ansible integrate with this.**
 
-- 📫 How to reach me and 📄 know about my experiences https://linkedin.com/in/acfernandes1/
+- 📫 Reach me and 📄 know about my experiences https://linkedin.com/in/acfernandes1/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
