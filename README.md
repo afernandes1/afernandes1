@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afernandes1&label=Profile%20views&color=0e75b6&style=flat" alt="afernandes1" /> </p>
 
-- 🔭 I’m currently working as **UC engineer, with a strong focus on Cisco technologies and also Microsoft.**
+- 🔭 I’m currently working as **UC engineer, with a strong focus on Cisco technologies and integrations with Microsoft**
 
 - 🌱 I’m currently learning **DevOps and how can this be useful in Unified Communications.**
 
@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **Cisco Call Manager AXL Schema, and how can Ansible integrate with this.**
 
-- 📫 How to reach me https://linkedin.com/in/acfernandes1/
-
-- 📄 Know about my experiences https://linkedin.com/in/acfernandes1/
+- 📫 How to reach me and 📄 know about my experiences https://linkedin.com/in/acfernandes1/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
